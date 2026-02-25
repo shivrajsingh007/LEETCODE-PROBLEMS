@@ -18,4 +18,4 @@ class Solution {
 
     return IntStream.range(0, used.length).mapToObj(i -> used[i]).allMatch(u -> u);
   }
-}
+}1356
