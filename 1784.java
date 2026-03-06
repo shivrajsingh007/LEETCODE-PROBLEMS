@@ -1,6 +1,5 @@
 class Solution {
- public:
-  bool checkOnesSegment(string s) {
-    return s.find("01") == string::npos;
+  public boolean checkOnesSegment(String s) {
+    return !s.contains("01");
   }
-};
+}
