@@ -19,7 +19,7 @@ class Solution {
         int firstChar = word.charAt(0) - 'A';
         for (int j = 0; j < 26; ++j) {
             dp[0][firstChar][j] = 0;  // Left finger types first char, right at position j
-            dp[0][j][firstChar] = 0;  // Right finger types first char, left at position j
+            dp[0][j][firstChar] = 0;  // Right finger types first char, left at positiona j
         }
       
         // Fill dp table for remaining characters
