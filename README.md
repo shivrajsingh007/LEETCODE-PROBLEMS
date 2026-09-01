@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/1009-complement-of-base-10-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Array
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -17,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Hash Table
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
