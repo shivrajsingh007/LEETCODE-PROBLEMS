@@ -1,6 +1,7 @@
 class Solution {
     public int bitwiseComplement(int n) {
         // Special case: complement of 0 is 1
+        //Shivraj singh
         if (n == 0) {
             return 1;
         }
