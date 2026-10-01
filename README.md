@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -111,9 +112,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivrajsingh007/LEETCODE-PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
